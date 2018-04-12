@@ -28,4 +28,9 @@ Onko astioiden palautus alue toimiva?
 Onko kouluruokalan henkilökunta ystävällistä?
 - Epäystävällistä  1  2  3  4  5  Ystävällistä
 
+Mikä on koulun ruokalistan lempparisi?
+- Vapaa sana
+
+Mikä on koulun ruokalistan inhokkisi?
+- Vapaa sana
 
