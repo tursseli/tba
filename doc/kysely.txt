@@ -1,1 +1,31 @@
--
+Sukupuoli
+- Nainen, Mies, En halua vastata
+
+Monettako vuotta koulussa?
+- 1, 2, 3, 4, Ikuinen opiskelija
+
+Kuinka usein ruokailet koulussa?
+- Päivittäin, muutaman kerran viikossa, harvemmin, en koskaan.
+
+Mielipide ruoan laadusta?
+- Huono 1  2  3  4  5 Hyvä
+
+Tulisiko tarjolla olla enemmän erityisruokavalio vaihtoehtoja?
+- Kyllä, Ei, En osaa sanoa
+
+Vastaako hinta laatua?
+- Ei vastaa 1  2  3  4  5  Vastaa
+
+Onko hinnoittelu selkeä?
+- Kyllä, Ei, En osaa sanoa
+
+Ovatko ruokalan ajankohtaiset tiedotukset riittäviä? 
+- Kyllä, Ei, En osaa sanoa
+
+Onko astioiden palautus alue toimiva?
+- Kyllä, Ei, en osaa sanoa
+
+Onko kouluruokalan henkilökunta ystävällistä?
+- Epäystävällistä  1  2  3  4  5  Ystävällistä
+
+
