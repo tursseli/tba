@@ -1,0 +1,3 @@
+Projektiryhmän nimi on TBA, ja projektiryhmän jäseniä ovat Anshelm (Arshelm), Jenny (Hyppykeppi), Jennika (Tursseli) ja Janne (Kaabel).
+Meidän kuningasidea on luoda kysely Haaga-Helian opiskelijoilta kouluruoasta.
+Projekti tehdään yhteistyössä ohtu-tiimin kanssa, suoritetaan kurssin ohjeistuksen mukaan.
